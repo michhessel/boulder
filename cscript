@@ -1,0 +1,5 @@
+void Update (){
+  if (github == easy){
+    life == amazing
+  }
+}
